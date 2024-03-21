@@ -8,8 +8,11 @@ This project is a Make My Trip Clone which is a Travel planning App.
 What things you need to install the software and how to install them:
 
 Flutter SDK: 
+
 Dart SDK: 
+
 An IDE like VS Code or Android Studio.
+
 A Firebase account to set up the Firebase project.
 
 A step by step guide that tell you how to get a development environment running:
