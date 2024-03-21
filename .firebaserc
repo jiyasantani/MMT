@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "demo2-c3023",
+    "email authentication": "demo2-c3023",
+    "password authentication": "demo2-c3023"
+  },
+  "targets": {},
+  "etags": {}
+}
